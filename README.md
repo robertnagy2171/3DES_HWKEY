@@ -1,5 +1,5 @@
 # 3DES_HWKEY
-Microchip PIC 16F84/12F809a based hardware key for triple DES encryption/decryption.
+Microchip PIC 16F84/12F509a based hardware key for triple DES encryption/decryption.
 It is connected to the RS232 serial port of the PC.
 
 Commands:
