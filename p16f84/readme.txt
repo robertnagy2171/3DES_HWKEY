@@ -1,4 +1,4 @@
-Version 0.09D (PIC16F84)
+Version 0.9D (PIC16F84)
 
 It is compatible with software version A1 for PIC12F509a
 
